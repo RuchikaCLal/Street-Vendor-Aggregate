@@ -20,7 +20,7 @@ This project is being developed as part of a college initiative to create **soci
 
 ## 🧩 Folder Structure
 
-```text
+```
 street-vendor-aggregate/
 ├── frontend/      → React + Vite app (UI, map, registration, reviews)
 ├── backend/       → Firebase / Express setup (APIs, Firestore, Storage)
