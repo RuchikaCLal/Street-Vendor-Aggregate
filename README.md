@@ -1,6 +1,6 @@
 # 🌍 Street Vendor Aggregate
 
-**FindMyCart** is a community-driven platform designed to bridge the gap between local street vendors and nearby customers.  
+**StreetMitra** is a community-driven platform designed to bridge the gap between local street vendors and nearby customers.  
 The project helps vendors gain visibility and helps users easily discover and support local businesses through map-based listings, reviews, and digital vendor profiles, all using open-source and free tools.
 
 ## 🚀 Project Overview
@@ -54,14 +54,14 @@ street-vendor-aggregate/
 # ⚙️ Setup Instructions
 Follow the steps below to set up and run the project locally.
 
-### 🖥️ 1. Clone the Repository
+### 🔹 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/street-vendor-aggregate.git
+git clone https://github.com/ruchikalal/street-vendor-aggregate.git
 cd street-vendor-aggregate
 
 ```
-### 🖥️ 2. Frontend Setup
+### 🔹 2. Frontend Setup
 The frontend folder contains the user interface built using **React + Vite**.
 ```bash
 cd frontend
@@ -69,10 +69,11 @@ npm install
 npm run dev
 ```
 
-### 🖥️ 3. Backend Setup
+### 🔹 3. Backend Setup
 The backend folder handles data storage, authentication, and APIs using Firebase / Express.
 ```bash
 cd backend
 npm install
 node index.js
 ```
+Once both frontend and backend are running, open **http://localhost:5173** to view the app.
