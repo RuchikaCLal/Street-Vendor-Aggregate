@@ -43,7 +43,7 @@ street-vendor-aggregate/
 
 ## Team Members
 
-- **Ruchika C. Lal** – Product Lead & Designer  
+- **Ruchika C Lal** – Product Lead & Designer  
 
 - **Jayashree G** – Backend Developer   
 
